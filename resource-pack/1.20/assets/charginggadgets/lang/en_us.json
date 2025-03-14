@@ -1,0 +1,5 @@
+{
+	"screen.charginggadgets.burn_time": "§6 Burn time left: %ss",
+	"screen.charginggadgets.energy": "§6 Energy: %s/%s FE",
+	"screen.charginggadgets.no_fuel": "§6 Fuel source empty"
+}

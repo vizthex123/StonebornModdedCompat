@@ -1,0 +1,50 @@
+{
+	"gui.ae2.SkyChest": "§6 Sky Stone Chest",
+
+	"gui.ae2.Chest": "§6 ME Chest",
+	"gui.ae2.Drive": "§6 ME Drive",
+	"gui.ae2.IOPort": "§6 ME IO Port",
+
+	"gui.ae2.ImportBus": "§6 ME Import Bus",
+	"gui.ae2.ExportBus": "§6 ME Export Bus",
+	"gui.ae2.ImportBusFluids": "§6 ME Fluid Import Bus",
+	"gui.ae2.ExportBusFluids": "§6 ME Fluid Export Bus",
+	"gui.ae2.StorageBus": "§6 Storage Bus",
+	"gui.ae2.StorageBusFluids": "§6 Fluid Storage Bus",
+
+	"gui.ae2.Terminal": "§6 Terminal",
+	"gui.ae2.PatternAccessTerminal": "§6 Pattern Access Terminal",
+	"gui.ae2.PatternAccessTerminalShort": "§6 Pattern A. Terminal",
+	"gui.ae2.PatternEncoding": "§6 Pattern Encoding",
+	"gui.ae2.CraftingTerminal": "§6 Crafting Terminal",
+	"gui.ae2.CraftingStatus": "§6 Crafting Status",
+	"gui.ae2.CraftingCPUs": "§6 Crafting CPUs",
+
+	"gui.ae2.NetworkDetails": "§6 Network Details (%d Channels)",
+	"gui.ae2.ChannelEnergyDrain": "§6 Channel Passive Drain: %s",
+	"gui.ae2.StoredPower": "§6 Stored Power: %s",
+	"gui.ae2.MaxPower": "§6 Max Power: %s",
+	"gui.ae2.PowerUsageRate": "§6 Energy Usage: %s",
+	"gui.ae2.PowerInputRate": "§6 Energy Generation: %s",
+
+	"gui.ae2.Wireless": "§6 Wireless Access Point",
+	"gui.ae2.WirelessRange": "§6 Range: %s m",
+	"gui.ae2.WirelessTerminal": "§6 Wireless Term",
+	"gui.ae2.WirelessTerminals": "§6 Wireless Terminals",
+
+	"gui.ae2.CellWorkbench": "§6 Cell Workbench",
+
+	"gui.ae2.SpatialIOPort": "§6 Spatial IO Port",
+	"gui.ae2.RequiredPower": "§6 Required Power: %s",
+	"gui.ae2.Efficiency": "§6 Efficiency: %s%%",
+
+	"gui.ae2.SCSInvalid": "§6 SCS Size: Invalid",
+	"gui.ae2.SCSSize": "§6 SCS Size: %sx%sx%s",
+
+	"gui.ae2.SpatialAnchor": "§6 Spatial Anchor",
+	"gui.ae2.SpatialAnchorAll": "§6 Spanning: %d chunks in %d worlds",
+	"gui.ae2.SpatialAnchorAllLoaded": "§6 Loading: %d chunks in %d worlds",
+	"gui.ae2.SpatialAnchorLoadedChunks": "§6 Chunks loaded: %s",
+	"gui.ae2.SpatialAnchorStatistics": "§6 Network Statistics",
+	"gui.ae2.SpatialAnchorUsedPower": "§6 Energy Usage: %s"
+}
