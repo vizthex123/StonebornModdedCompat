@@ -1,6 +1,10 @@
 {
-  "pack": {
-    "pack_format": 9,
-    "description": "by Fr_z_n"
-  }
+    "pack": {
+        "pack_format": 9,
+		"supported_formats": [
+			12,
+			13
+		],
+        "description": "by Fr_z_n."
+	}
 }

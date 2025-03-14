@@ -1,6 +1,9 @@
 {
-  "pack": {
-    "pack_format": 6,
-    "description": "by Fr_z_n"
-  }
+	"pack": {
+        "pack_format": 6,
+		"supported_formats": [
+			5
+		],
+        "description": "by Fr_z_n."
+	}
 }
