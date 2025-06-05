@@ -1,2 +1,3 @@
-Aulberon - Huge contributions
-vizthex - Ported the pack to 1.20 and tweaked a few files to make it work
+Aulberon - "Huge contributions" (idk exactly what since Fr_z_n didn't mention the specifics in the changelog)
+Fr_z_n - Made the original pack
+vizthex - Ported the pack to 1.20 and tweaked support for several mods so it actually worked

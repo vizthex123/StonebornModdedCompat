@@ -2,14 +2,60 @@ A full changelog for every version (and sub-version) of the [resource pack](http
 
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
-I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor fixes and/or additions I missed in the last patch.
+I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor fixes and/or additions I missed in the last patch (as well as version ports so you can quickly navigate on Modrinth).
 
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
 
+## v3.2
+
+*Ported & updated by [vizthex](https://www.curseforge.com/members/vizthex/projects).*
+
+*Due to the sheer volume of mods this supports (most of which I've never even heard of), I probably missed a few mods that need updating. Please let us know in the comments or on the [issue tracker](https://github.com/vizthex123/StonebornModdedCompat/issues) and we'll fix it.*
+
+Ported to 1.20.1
+
+Updated support for the following:
+- Adorn
+- Apotheosis
+- Applied Energistics 2
+- Convenient Curios Container
+- Curios
+- Just Enough Items
+- Majrusz's Accessories
+- Sophisticated Backpacks
+- Sully's Mod
+- Traveler's Backpack
+- Vinery
+
+<br />
+
+Added support for the following mods:
+- Diet
+- Iron's Spells 'n Spellbooks (I can't even remember who asked for it lol)
+
+<br />
+
+Imported support from [Stoneborn: Missing Mods](https://www.curseforge.com/minecraft/texture-packs/stoneborn-missing-mods):
+- Botania
+- Blood Magic
+- Building Gadgets
+- Charging Gadgets
+- Iron Chests: Restocked (that way both of them are covered by the same pack)
+- LaserIO (and the unofficial LTS fork)
+- Mining Gadgets
+- Nature's Aura
+- Spell Engine (also updated the spell book slot icon)
+- TrashCan
+- The Twilight Forest (also fixed the misaligned outlines on the uncrafting table's arrow)
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.1
 
-Added .fsh shader. Now ALL GUI titles and container titles are in orange/gold. Maximum compatibility.
+Added .fsh shader. Now *ALL* GUI titles and container titles are in orange/gold. Maximum compatibility!
 
 Mod support added:
 
@@ -44,8 +90,6 @@ More Minecarts and Rails
 ## v2.4
 
 Fixed Numismatic Overhaul support
-
- 
 
 Mod support added:
 
@@ -127,10 +171,10 @@ YDM's Weapon Master
 --------------------------------------------------
 ## v2.0
 
-
 Huge Contributions from Aulberon (as credited)
 
-Adds support for JEI, Create, and much more.
+Adds support for Create, JEI, and much more.
+
 
 <br /> <br />
 
