@@ -1,0 +1,10 @@
+{
+
+	"container.thermal.machine_pulverizer": "§6 Pulverizer",
+
+	"attachment.thermal.energy_limiter": "§6 Redstone Flux Limiter",
+	"attachment.thermal.filter": "§6 Fluiduct Filter",
+	"attachment.thermal.servo": "§6 Fluiduct Servo",
+	"attachment.thermal.turbo_servo": "§6 Fluiduct Turbo-Servo"
+
+}

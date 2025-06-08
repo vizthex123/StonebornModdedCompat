@@ -1,0 +1,31 @@
+{
+	"screen.biggerreactors.cyanite_reprocessor": "§6 Cyanite Reprocessor",
+
+	"screen.biggerreactors.reactor_terminal": "§6 Reactor Info",
+	"screen.biggerreactors.reactor_control_rod": "§6 Reactor Control Rod",
+	"screen.biggerreactors.reactor_coolant_port": "§6 Reactor Coolant Port",
+	"screen.biggerreactors.reactor_access_port": "§6 Reactor Access Port",
+
+	"screen.biggerreactors.reactor_redstone_port": "§6 Reactor Redstone Port",
+	"screen.biggerreactors.reactor_redstone_port.trigger_type_toggle.ps.on_pulse": "§6 Trigger: On Pulse",
+	"screen.biggerreactors.reactor_redstone_port.trigger_type_toggle.ps.on_signal": "§6 Trigger: On Signal",
+	"screen.biggerreactors.reactor_redstone_port.trigger_type_toggle.ab.while_above": "§6 Trigger: While Above",
+	"screen.biggerreactors.reactor_redstone_port.trigger_type_toggle.ab.while_below": "§6 Trigger: While Below",
+
+	"screen.biggerreactors.turbine_terminal": "§6 Turbine Info",
+	"screen.biggerreactors.turbine_fluid_port": "§6 Turbine Fluid Port",
+
+	"screen.biggerreactors.heat_exchanger_terminal": "§6 Heat Exchanger Info",
+	"screen.biggerreactors.heat_exchanger_fluid_port": "§6 Heat Exchanger Fluid Port",
+
+
+
+	"jei.biggerreactors.classic.turbine_coil_bonus": "§6 Bonus: %s",
+	"jei.biggerreactors.classic.turbine_coil_efficiency": "§6 Efficiency: %s",
+	"jei.biggerreactors.classic.turbine_coil_extraction": "§6 Extraction Rate: %s",
+
+	"jei.biggerreactors.classic.reactor_moderator_moderation": "§6 Moderation: %s",
+	"jei.biggerreactors.classic.reactor_moderator_absorption": "§6 Absorption: %s",
+	"jei.biggerreactors.classic.reactor_moderator_conductivity": "§6 Heat Conductivity: %s",
+	"jei.biggerreactors.classic.reactor_moderator_efficiency": "§6 Heat Efficiency: %s"
+}

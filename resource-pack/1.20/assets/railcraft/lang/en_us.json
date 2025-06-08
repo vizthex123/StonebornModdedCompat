@@ -1,0 +1,14 @@
+{
+	"container.railcraft.blast_furnace": "§6 Blast Furnace",
+	"container.railcraft.coke_oven": "§6 Coke Oven",
+	"container.railcraft.crusher": "§6 Crusher",
+	"container.railcraft.fluid_fueled_steam_boiler": "§6 Fluid Fueled Steam Boiler",
+	"container.railcraft.solid_fueled_steam_boiler": "§6 Solid Fueled Steam Boiler",
+	"container.railcraft.steam_oven": "§6 Steam Oven",
+	"container.railcraft.steam_turbine": "§6 Steam Turbine",
+	"container.railcraft.tank": "§6 Tank",
+	"container.railcraft.water_tank_siding": "§6 Water Tank",
+	"screen.railcraft.item_manipulator.buffer": "§6 Buffer",
+	"screen.railcraft.item_manipulator.filters": "§6 Filters",
+	"screen.railcraft.filter": "§6 Filter"
+}

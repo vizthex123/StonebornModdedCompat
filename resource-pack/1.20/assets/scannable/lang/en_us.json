@@ -1,0 +1,6 @@
+{
+	"gui.scannable.scanner.active_modules": "§6 Modules",
+	"gui.scannable.scanner.inactive_modules": "§6 Inactive",
+	"gui.scannable.block_module.list": "§6 Blocks",
+	"gui.scannable.entity_module.list": "§6 Entities"
+}

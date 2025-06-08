@@ -1,0 +1,2 @@
+- Diet's main UI improperly adds the decals, and it can't be fixed since there's no asset file for it
+- Railcraft Reborn's metal rolling JEI tab has all the slots quite offset. This is due to the JEI tab copying the machine's UI rather than being a separate file.

@@ -6,7 +6,59 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------
+## v3.3
 
+*I figured I'd add support for a few mods I use that Meï's Additions has broken implementation for (and The Aether Mod since it's a retro classic)*
+<br /><br />
+*In addition, this update adds support for all the mods Stoneborn: Missing Mods covers. Due to this, Missing Mods is no longer necessary and probably won't be maintained any more (after I finally get around to that backport, at least - might as well do a big final send-off update, right?).*
+<br /><br />
+Changed the long buttons from Lightman's Currency to use better colours<br />
+Changed the Brewing Stand's JEI tab arrow to use the fancy golden one from [Adorn's brewery](https://github.com/vizthex123/StonebornModdedCompat/blob/main/resource-pack/1.20/assets/adorn/textures/gui/brewer.png) instead of my version
+<br />
+Imported support for all the mods that [Stoneborn: Missing Mods](https://www.curseforge.com/minecraft/texture-packs/stoneborn-missing-mods) covers
+- Custom and Masterful Machinery are excluded since pack devs will probably use custom UI textures for them - but they're still in Stoneborn: Missing Mods
+- Made Aether support cover all of its UIs (huge thanks to xKeru on the Stoneborn discord for the Life Shard Hearts texture)
+- Swapped Quark's JEI influence tab for the one I made for Stoneborn: Missing Mods
+
+
+## Fixes
+- Fixed the inventory and anvil UIs being incorrect. I did report these to the Stoneborn author, but they haven't been fixed yet so I figured I'd toss them in here.
+- Fixed Enigmatic Legacy support missing a new UI
+- Fixed L2 Artifacts and Backpack support not supporting two new UIs
+- Fixed L2 Complements' JEI category being formatted incorrectly
+- Fixed L2 Library's UI support not working (I have no clue where they're used though lol)
+- Fixed Thermal Series' JEI background having the wrong border shading
+- Fixed Thermal Series' JEI fluid arrows allowing fluids to bleed through
+- Fixed Traveler's Backpack missing support for several assets that were added in the 1.20 port (reported by mushruuman in the comments section)
+
+
+## Mod support added
+- Biomancy
+- Etched (requested a while ago by SumDraco for [Stoneborn: Missing Mods](https://www.curseforge.com/minecraft/texture-packs/stoneborn-missing-mods))
+- Intelligence: Quarry
+- Inventory Tweaks: Refoxed
+- Item Filters
+- Jade (progress arrows when looking at furnaces & such - but it seems like it's not working?)
+- L2 Hostility
+- Nether's Delight
+- Spice of Life: Apple Pie Edition
+- Spice of Life: Onion Edition
+- Spice of Life: Ringo Pie Edition
+
+
+### Additions requested by [IdrisQe](https://github.com/vizthex123/StonebornMissingMods/issues/3)
+- Butchery (only has partial support since its assets aren't properly laid out)
+- Corail Woodcutter
+- Enchantment Machine
+- Enigmatic Addons
+- Enigmatic Delicacy
+- Sophisticated Storage
+- Wares
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.2
 
 *Ported & updated by [vizthex](https://www.curseforge.com/members/vizthex/projects).*
@@ -32,7 +84,7 @@ Updated support for the following:
 
 Added support for the following mods:
 - Diet
-- Iron's Spells 'n Spellbooks (I can't even remember who asked for it lol)
+- Iron's Spells 'n Spellbooks (requested by IdrisQe in his [missing mods issue report](https://github.com/vizthex123/StonebornMissingMods/issues/3))
 
 <br />
 

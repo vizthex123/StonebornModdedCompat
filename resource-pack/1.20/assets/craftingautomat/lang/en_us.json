@@ -1,0 +1,6 @@
+{
+	"container.craftingautomat:autocrafter": "§6 Crafting",
+    "container.craftingautomat:autocrafter.flag.ready": "§6 Auto-crafting ready",
+    "container.craftingautomat:autocrafter.flag.missing": "§6 Missing ingredients",
+    "container.craftingautomat:autocrafter.flag.invalid": "§6 Auto-crafting not supported"
+}

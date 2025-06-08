@@ -1,3 +1,8 @@
 Aulberon - "Huge contributions" (idk exactly what since Fr_z_n didn't mention the specifics in the changelog)
 Fr_z_n - Made the original pack
-vizthex - Ported the pack to 1.20 and tweaked support for several mods so it actually worked
+vizthex - Ported the pack to 1.20 (and tweaked support for several mods so it actually worked on 1.20. Also added further support in various updates, starting with v3.2)
+
+The ARASH - giving me the brick background texture that crafting tables use (no way I would've gotten it otherwise lol). He also made the Uncrafting Table UI that was imported from Stoneborn: Missing Mods.
+
+xKeru on the Stoneborn discord server for making the fancy arrows used in the the Nature's Aura's Altar JEI tab that was imported from Stoneborn: Missing Mods.
+- Also made the Life Shard Hearts (from The Aether) in v3.3

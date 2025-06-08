@@ -1,0 +1,12 @@
+{
+	"gui.buy": "§6 Buy",
+	"gui.sell": "§6 Sell",
+	"gui.money_format": "§6 $%s",
+	"gui.balance": "§6 Balance: %s",
+	"gui.item_tag": "§6 Any item: ",
+	"gui.fluid_tag": "§6 Any fluid: ",
+	"gui.adminshop.tank_gauge": "§6 Tank Gauge",
+	"gui.adminshop.progress_bar": "§6 Progress Bar",
+	"gui.adminshop.tank_empty": "§6 Empty",
+	"gui.adminshop.set_threshold": "§6 Set detector threshold to %s"
+}
