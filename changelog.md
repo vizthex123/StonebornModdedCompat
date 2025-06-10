@@ -5,6 +5,30 @@ This one will be updated more often than the CurseForge and Modrinth changelogs.
 I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor fixes and/or additions I missed in the last patch (as well as version ports so you can quickly navigate on Modrinth).
 
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
+
+--------------------------------------------------
+
+## v3.4
+
+Fixed Fr_z_n's accidental removal of Chalk support<br />
+Fixed Farmer's Delight food icons not being supported (icons made by xKeru)<br />
+Fixed some icons from Personal Cloud Storage being incorrect<br />
+- If someone's able to make them match better, it'd be noice
+
+Changed Mekanism's fluid indicators to red instead of grey-ish<br />
+Changed Project Red's auto-crafter to match other backgrounds (also fixed the misaligned selector)<br />
+Properly fixed Thermal Series fluid arrows allowing liquids to bleed through
+
+Mod support added:
+- Alex's Caves
+- BackSlot
+- Mod Menu
+- Numismatic Overhaul
+- Rubinated Nether
+
+
+<br /> <br />
+
 --------------------------------------------------
 ## v3.3
 
