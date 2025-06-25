@@ -8,6 +8,18 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 --------------------------------------------------
 
+## v3.4.1
+
+Fixed the Charging Station's UI having some stray pixels (from Charging Gadgets)<br />
+Fixed YDM's Weapon Master support (reported in a DM dotlumi sent me on CurseForge)<br />
+Removed support for Apotheosis' reforge table since its UI is now vastly different
+
+Added support for Peaceful Progression
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.4
 
 Fixed Fr_z_n's accidental removal of Chalk support<br />

@@ -125,6 +125,7 @@
 * [Nutritional Balance](https://www.curseforge.com/minecraft/mc-mods/nutritional-balance)
 * [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
 * [Paradise Lost](https://www.curseforge.com/minecraft/mc-mods/paradise-lost)
+* [Peaceful Progression](https://www.curseforge.com/minecraft/mc-mods/peaceful-progression)
 * [Player Companions](https://www.curseforge.com/minecraft/mc-mods/player-companions)
 * [PlayerEx](https://www.curseforge.com/minecraft/mc-mods/playerex)
 * [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
