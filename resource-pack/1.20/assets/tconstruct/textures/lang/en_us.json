@@ -1,0 +1,7 @@
+{
+	"jei.tconstruct.part_builder.cost": "§6 Cost: %s",
+	"jei.tconstruct.modifiers.level.min": "§6 Min level: %s",
+	"jei.tconstruct.modifiers.level.max": "§6 Max level: %s",
+	"jei.tconstruct.modifiers.level.range": "§6 Level range: %s-%s",
+	"jei.tconstruct.modifiers.level.exact": "§6 For level: %s"
+}

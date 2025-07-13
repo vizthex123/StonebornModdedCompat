@@ -2,12 +2,33 @@ A full changelog for every version (and sub-version) of the [resource pack](http
 
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
-I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor fixes and/or additions I missed in the last patch (as well as version ports so you can quickly navigate on Modrinth).
-
-Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
-
+I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor fixes and/or additions I missed in the last patch (as well as version ports, that way you can quickly navigate through them on Modrinth).
 --------------------------------------------------
 
+## v3.5
+
+Thanks to the devs updating the mod, support for LaserIO UEL has been fixed (if you're running v1.5.0 or higher of the mod)<br />
+Updated a couple of UIs from Blood Magic<br />
+Updated support for Intelligence: Quarry
+
+Properly fixed the Charging Station's UI<br />
+Fixed a stray pixel in the Composition UI from Nether's Delight
+
+Mod support added:
+- Cozy Foods: Milk Tea
+- Crabber's Delight
+- Glowberry Expansion
+- Legendary Tabs (added by [Groupix05](https://github.com/vizthex123/StonebornModdedCompat/pull/1))
+- My Nether's Delight
+- Regions Unexplored (added by [Groupix05](https://github.com/vizthex123/StonebornModdedCompat/pull/1))
+- Shipping Bin
+- Simple Shipping Bins
+- Tinkers' Construct
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.4.1
 
 Fixed the Charging Station's UI having some stray pixels (from Charging Gadgets)<br />

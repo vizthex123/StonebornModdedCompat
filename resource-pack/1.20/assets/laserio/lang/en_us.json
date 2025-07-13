@@ -6,6 +6,7 @@
 	"screen.laserio.west": "§6 West",
 	"screen.laserio.east": "§6 East",
 
-	"screen.laserio.settings": "§6 Settings"
+	"screen.laserio.settings": "§6 Settings",
+	"screen.laserio.network_settings": "§6 Settings"
 
 }
