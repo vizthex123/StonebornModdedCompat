@@ -5,6 +5,36 @@ This one will be updated more often than the CurseForge and Modrinth changelogs.
 I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor fixes and/or additions I missed in the last patch (as well as version ports, that way you can quickly navigate through them on Modrinth).
 --------------------------------------------------
 
+## v3.6
+
+The pack now supports 220 mods! Let's go for 300 next lol.
+
+Mod support added:
+* Compacter
+* Myst Worlds
+* Quick Quarry
+* Tinkers' Advanced
+
+----------
+
+### Contributions made by [Groupix05](https://github.com/vizthex123/StonebornModdedCompat/pull/2)
+
+Fixed missing JEI tab for Apotheosis<br />
+Fixed Regions Unexplored compat
+
+Mod support added:
+* The Aether: Redux
+* Alex's Caves: Stuff & Torpedoes
+* Deep Aether
+* Galospheric Delight
+* Ice and Fire: Dragons
+* L_Ender 's Cataclysm
+* Twilight's Flavors & Delight
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.5
 
 Thanks to the devs updating the mod, support for LaserIO UEL has been fixed (if you're running v1.5.0 or higher of the mod)<br />
