@@ -12,4 +12,4 @@ xKeru on the Stoneborn discord server for making the fancy arrows used in the th
 
 rischiopoco - updating LaserIO UEL to work better with texture packs
 
-Groupix05 - added support for Legendary Tabs and Regions Unexplored in v3.5, as well as most of the support in v3.6
+Groupix05 - added support for Legendary Tabs and Regions Unexplored in v3.5, as well as most of the support in v3.6 (and EMI + its loot add-on in v3.6.1)
