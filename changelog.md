@@ -6,6 +6,22 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 
 --------------------------------------------------
 
+## v3.7
+
+Updated Supplementaries support
+
+Mod support added:
+- Caverns & Chasms
+- Classic Pipes
+- Environmental
+- Gallery
+- Starter Kit (done by corporatte-dev)
+- Supplementaries Squared
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.6.1
 
 Added support for EMI and EMI Loot (done by Groupix05)

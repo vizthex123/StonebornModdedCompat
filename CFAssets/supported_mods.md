@@ -28,15 +28,17 @@
 * [Brick Hopper](https://www.curseforge.com/minecraft/mc-mods/brick-hopper)
 * [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
 * [Butchery](https://www.curseforge.com/minecraft/mc-mods/butchery)
+* [Caverns & Chasms](https://www.curseforge.com/minecraft/mc-mods/caverns-and-chasms)
 * [Chalk](https://www.curseforge.com/minecraft/mc-mods/chalk)
 * [Charging Gadgets](https://www.curseforge.com/minecraft/mc-mods/charging-gadgets)
 * [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
 * [Chicken Chunks](https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8)
+* [Classic Pipes](https://www.curseforge.com/minecraft/mc-mods/classic-pipes)
 * [Clayworks](https://www.curseforge.com/minecraft/mc-mods/clayworks)
 * [Cloud Storage](https://www.curseforge.com/minecraft/mc-mods/alexs-cloud-storage)
 * [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core)
-* [Convenient Curios Container](https://www.curseforge.com/minecraft/mc-mods/convenient-curios-container)
 * [Compacter](https://www.curseforge.com/minecraft/mc-mods/compacter)
+* [Convenient Curios Container](https://www.curseforge.com/minecraft/mc-mods/convenient-curios-container)
 * [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 * [Corail Woodcutter](https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter)
 * [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse)
@@ -57,6 +59,7 @@
 * [Dis-Enchanting Table](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
 * [Domum Ornamentum](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum)
 * [Drink Beer: Refill](https://www.curseforge.com/minecraft/mc-mods/drink-beer-refill)
+* [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)
 * [EmoteCraft](https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge)
 * [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
 * [Enchantment Machine](https://www.curseforge.com/minecraft/mc-mods/enchantment-machine)
@@ -80,6 +83,7 @@
 * [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)
 * [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
 * [Furnish](https://www.curseforge.com/minecraft/mc-mods/furnish)
+* [Gallery](https://www.curseforge.com/minecraft/mc-mods/gallery)
 * [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)
 * [Galospheric Delight](https://www.curseforge.com/minecraft/mc-mods/galospheric-delight)
 * [Gendustry: Community Edition](https://www.curseforge.com/minecraft/mc-mods/gendustry-community-edition)
@@ -184,9 +188,11 @@
 * [Spice of Life: Ringo Pie Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-ringo-pie-edition)
 * [Spice of Life: Sweet Potato Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-sweet-potato-edition)
 * [Spirit](https://www.curseforge.com/minecraft/mc-mods/spirit)
+* [Starter Kit](https://www.curseforge.com/minecraft/mc-mods/starter-kit)
 * [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 * [Sully's Mod](https://www.curseforge.com/minecraft/mc-mods/sullys-mod)
 * [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+* [Supplementaries Squared](https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared)
 * [Sushi Go Crafting](https://www.curseforge.com/minecraft/mc-mods/sushigocrafting)
 * [The Aether](https://www.curseforge.com/minecraft/mc-mods/the-aether)
 * [The Aether: Redux](https://www.curseforge.com/minecraft/mc-mods/aether-redux)
@@ -221,8 +227,7 @@
 * [Woodworks](https://www.curseforge.com/minecraft/mc-mods/woodworks)
 * [YDM's Weapon Master](https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master)
 
-
-
 <br />
+
 Template for when I add more:
 * []()
