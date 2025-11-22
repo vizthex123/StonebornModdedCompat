@@ -3,8 +3,33 @@ A full changelog for every version (and sub-version) of the [resource pack](http
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
 I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor fixes and/or additions I missed in the last patch (as well as version ports, that way you can quickly navigate through them on Modrinth).
+
 --------------------------------------------------
 
+## v3.7
+
+Updated Supplementaries support
+
+Mod support added:
+- Caverns & Chasms
+- Classic Pipes
+- Environmental
+- Gallery
+- Starter Kit (done by corporatte-dev)
+- Supplementaries Squared
+
+
+<br /> <br />
+
+--------------------------------------------------
+## v3.6.1
+
+Added support for EMI and EMI Loot (done by Groupix05)
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.6
 
 The pack now supports 220 mods! Let's go for 300 next lol.
