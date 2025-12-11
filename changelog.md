@@ -6,6 +6,29 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 
 --------------------------------------------------
 
+## v3.8
+
+*I was going to update the support for Create since an issue report was filed, but the UIs are so intricate that I don't want to deal with it rn. I have no idea why the create devs decided to add a few more pixels to all of the UIs ffs. Will try to fix it later, but if anyone who's better at this wants to take a crack at it please open a PR (and you can even add support for the new UIs, as well).*
+
+Fixed support for Dis-Enchanting Table not loading in<br />
+Updated Apotheosis support (requested by 0ddangel)<br />
+Updated Cooking for Blockheads support (requested by izzsunile)
+
+Mod support added:
+- Accessories (requested by AchiraJoker and Mint__Key)
+- Fossils and Archeology: Revival (requested by segazoo)
+- Vampirism (requested by Dankest0)
+
+Requested by izzsunile:
+- Bartering Station
+- Echo Chest
+- Illager Invasion
+- Nether Chested
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.7
 
 Updated Supplementaries support
