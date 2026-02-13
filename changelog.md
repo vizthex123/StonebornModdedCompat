@@ -6,9 +6,46 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 
 --------------------------------------------------
 
-## v3.8
+## 3.9
 
-*I was going to update the support for Create since an issue report was filed, but the UIs are so intricate that I don't want to deal with it rn. I have no idea why the create devs decided to add a few more pixels to all of the UIs ffs. Will try to fix it later, but if anyone who's better at this wants to take a crack at it please open a PR (and you can even add support for the new UIs, as well).*
+Fixed a rendering issue with Sophisticated Core (done by DankestO)
+
+<br />
+
+Updated support for the following mods:
+- Create (finally lol. Been putting this off for like three updates. I am officially not on speaking terms with whoever decided to re-do a random assortment of UIs ffs)
+- EnderIO (new JEI tab for fire crafting and adding the rest of the UIs)
+- Iron Chests (centered the side decals and updated all of them to be the same as modern Stoneborn (since it seems like this support was based off of an old version of the pack?))
+- Lightman's Currency *again* (i am so tired of having to constantly update this please stop fucking with the UI designs ohmygod)
+- Thermal Series (fixed fluid machine progress arrows not filling in properly, tweaked the progress bars a tad, filled in some stray pixels, and finally updated the buttons thanks to ChiefArug on the CoFH discord finding the asset file for me)
+- Tinkers' Construct (renamed a few files since the mod did so, and added the extra few pixels of height to each crafting station)
+
+<br />
+
+Mod support added:
+- Alternate Origin GUI (requested by capaMEC)
+- Apothic Attributes
+- Automatic Sorter
+- Copperworks
+- Create Stock Bridge
+- Immersive Engineering
+- Iron Barrels
+- Iron Shulker Boxes
+- JustLeveling [Fork] (done by U_nderscor_e)
+- Only Bags
+- Questlog
+- Recycler Scrap / Recycler Block (i can't tell if these are the same mod or not lol)
+- Terramity (requested by capaMEC)
+- Werewolves (done by DankestO)
+
+
+<br /> <br />
+
+--------------------------------------------------
+
+## 3.8
+
+*I was going to update the support for Create since an [issue report](https://github.com/vizthex123/StonebornModdedCompat/issues/6) was filed, but the UIs are so intricate that I don't want to deal with it rn. I have no idea why the create devs decided to add a few more pixels to all of the UIs ffs. Will try to fix it later, but if anyone who's better at this wants to take a crack at it please open a PR (and you can even add support for the new UIs, as well).*
 
 Fixed support for Dis-Enchanting Table not loading in<br />
 Updated Apotheosis support (requested by 0ddangel)<br />
@@ -29,7 +66,8 @@ Requested by izzsunile:
 <br /> <br />
 
 --------------------------------------------------
-## v3.7
+
+## 3.7
 
 Updated Supplementaries support
 
@@ -45,7 +83,8 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-## v3.6.1
+
+## 3.6.1
 
 Added support for EMI and EMI Loot (done by Groupix05)
 
@@ -53,7 +92,8 @@ Added support for EMI and EMI Loot (done by Groupix05)
 <br /> <br />
 
 --------------------------------------------------
-## v3.6
+
+## 3.6
 
 The pack now supports 220 mods! Let's go for 300 next lol.
 
@@ -83,9 +123,11 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-## v3.5
 
-Thanks to the devs updating the mod, support for LaserIO UEL has been fixed (if you're running v1.5.0 or higher of the mod)<br />
+## 3.5
+
+Support for LaserIO UEL has been fixed (if you're running v1.5.0 or higher of the mod - thanks to the devs for fixing it after I filed an issue report)<br />
+
 Updated a couple of UIs from Blood Magic<br />
 Updated support for Intelligence: Quarry
 
@@ -107,7 +149,8 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-## v3.4.1
+
+## 3.4.1
 
 Fixed the Charging Station's UI having some stray pixels (from Charging Gadgets)<br />
 Fixed YDM's Weapon Master support (reported in a DM dotlumi sent me on CurseForge)<br />
@@ -119,7 +162,8 @@ Added support for Peaceful Progression
 <br /> <br />
 
 --------------------------------------------------
-## v3.4
+
+## 3.4
 
 Fixed Fr_z_n's accidental removal of Chalk support<br />
 Fixed Farmer's Delight food icons not being supported (icons made by xKeru)<br />
@@ -141,7 +185,8 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-## v3.3
+
+## 3.3
 
 *I figured I'd add support for a few mods I use that Meï's Additions has broken implementation for (and The Aether Mod since it's a retro classic)*
 <br /><br />
@@ -194,7 +239,7 @@ Imported support for all the mods that [Stoneborn: Missing Mods](https://www.cur
 <br /> <br />
 
 --------------------------------------------------
-## v3.2
+## 3.2
 
 *Ported & updated by [vizthex](https://www.curseforge.com/members/vizthex/projects).*
 
@@ -240,7 +285,8 @@ Imported support from [Stoneborn: Missing Mods](https://www.curseforge.com/minec
 <br /> <br />
 
 --------------------------------------------------
-## v3.1
+
+## 3.1
 
 Added .fsh shader. Now *ALL* GUI titles and container titles are in orange/gold. Maximum compatibility!
 
@@ -261,7 +307,8 @@ Traveler's Backpacks
 <br /> <br />
 
 --------------------------------------------------
-## v2.5
+
+## 2.5
 
 Mod support added:
 
@@ -274,7 +321,8 @@ More Minecarts and Rails
 <br /> <br />
 
 --------------------------------------------------
-## v2.4
+
+## 2.4
 
 Fixed Numismatic Overhaul support
 
@@ -296,7 +344,8 @@ Useful Backpacks
 <br /> <br />
 
 --------------------------------------------------
-## v2.3
+
+## 2.3
 
 Changed pack format to 8 (was 9)
 
@@ -304,7 +353,8 @@ Changed pack format to 8 (was 9)
 <br /> <br />
 
 --------------------------------------------------
-## v2.2
+
+## 2.2
 
 Mod support added:
 
@@ -333,7 +383,8 @@ Twilight Forest
 <br /> <br />
 
 --------------------------------------------------
-## v2.1
+
+## 2.1
 
 Retextures for:
 
@@ -356,7 +407,8 @@ YDM's Weapon Master
 <br /> <br />
 
 --------------------------------------------------
-## v2.0
+
+## 2.0
 
 Huge Contributions from Aulberon (as credited)
 
@@ -366,6 +418,7 @@ Adds support for Create, JEI, and much more.
 <br /> <br />
 
 --------------------------------------------------
-## v1.0
+
+## 1.0
 
 Initial release

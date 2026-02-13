@@ -6,7 +6,7 @@ vizthex - Ported the pack to 1.20, tweaking support for several mods so it actua
 
 
 
-Contributions since I (vizthex) took over:
+===Contributions since I (vizthex) took over===
 
 The ARASH - giving me the brick background texture that crafting tables use (no way I would've gotten it otherwise lol). He also made the Uncrafting Table UI that was imported from Stoneborn: Missing Mods in v3.2
 
@@ -14,11 +14,18 @@ xKeru on the Stoneborn discord server for making the fancy arrows used in the th
 - Also made the Life Shard Hearts (for The Aether) in v3.3
 - Also made the food icons (for Farmer's Delight) in v3.4
 
+rischiopoco - updating LaserIO UEL to work better with texture packs after i reported it as an issue
 
-rischiopoco - updating LaserIO UEL to work better with texture packs
+
+
+==Community-created mod support==
 
 Groupix05 - added support for Legendary Tabs and Regions Unexplored in v3.5, as well as most of the support in v3.6 (and EMI + its loot add-on in v3.6.1)
 
 corporatte-dev - added support for Serilum's Starter Kit in v3.7
 
 newman - fixed a few UIs from Apotheosis in v3.8
+
+DankestO - fixed a rendering issue with Sophisticated Core and added support for Werewolves in v3.9
+
+U_nderscor_e - added support for JustLeveling [Fork] in v3.9 (which he published as his own pack before i added it to this one: https://www.curseforge.com/minecraft/texture-packs/stoneborn-x-justleveling-compact)

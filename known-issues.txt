@@ -1,6 +1,0 @@
-- Diet's main UI improperly adds the decals, and it can't be fixed since there's no asset file for it
-
-- LaserIO's selected tab button uses the default minecraft colour instead of Stoneborn. As of vCHANGE, this has been fixed due to the dev updating the mod and adding my suggestion: https://github.com/LaserIO-UEL/LaserIO-UEL/issues/105
-I can't fix it since it's using colour fill, but hopefully the UEL version is able to do so (I filed an issue report about it: https://github.com/LaserIO-UEL/LaserIO-UEL/issues/105)
-
-- Railcraft Reborn's metal rolling JEI tab has all the slots quite offset. This is due to the JEI tab copying the machine's UI rather than being a separate file (I reported it though, so hopefully it gets fixed: https://github.com/railcraft-reborn/railcraft/issues/307)
