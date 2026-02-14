@@ -18,7 +18,7 @@ rischiopoco - updating LaserIO UEL to work better with texture packs after i rep
 
 
 
-==Community-created mod support==
+==Community contributions==
 
 Groupix05 - added support for Legendary Tabs and Regions Unexplored in v3.5, as well as most of the support in v3.6 (and EMI + its loot add-on in v3.6.1)
 

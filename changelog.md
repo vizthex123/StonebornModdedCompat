@@ -6,6 +6,37 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 
 --------------------------------------------------
 
+## 3.10
+
+*I forgot to check all the Create add-ons last update lol. Also tossed in a few other mods I found in my packs whilst looking for add-ons to add support for.*
+
+*Next update (should be) a long-overdue 1.21 port since I'm forced to use that version for one of my new modpack concepts :'c*
+
+<br />
+
+Updated all of Create's arrow boxes to match the long arrow button styling I use<br />
+Imported the last few pieces of support from Stoneborn: Missing Mods
+
+Removed the Gem Cutting UI since a few people are reporting issues with it *[Apotheosis]*
+- I might try to fix and re-add it later, but I honestly can't be fucked to use this mod lol - so there's no guarantees. If you wish to do so yourself, you are free to [open a pull request](https://github.com/vizthex123/StonebornModdedCompat/pulls) on the GitHub and i'll toss it into the next update.
+
+Mod support added:
+- Actually Subtractions
+- Create: Diesel Generators
+- Create: Enchantment Industry
+- Create: Numismatics
+- Create: Numismatics Utils
+- Create: Numismatics Wallets
+- Create Numismatics Wallet
+- ForceCraft
+- OpenBlocks Elevator (i can't believe it took me this long lol)
+- Transprotwo
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.9
 
 Fixed a rendering issue with Sophisticated Core (done by DankestO)
