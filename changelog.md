@@ -6,6 +6,16 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 
 --------------------------------------------------
 
+## 3.10.1
+
+Added a few missing UIs for the L2 mods (reported by Hello There on the discord)<br />
+Added support for Colorful Hearts (done by AshrielV)
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.10
 
 *I forgot to check all the Create add-ons last update lol. Also tossed in a few other mods I found in my packs whilst looking for add-ons to add support for.*
@@ -60,7 +70,7 @@ Mod support added:
 - Copperworks
 - Create Stock Bridge
 - Immersive Engineering
-- Iron Barrels
+- Iron Barrels: Overhauled
 - Iron Shulker Boxes
 - JustLeveling [Fork] (done by U_nderscor_e)
 - Only Bags
